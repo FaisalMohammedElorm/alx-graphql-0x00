@@ -1,0 +1,30 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "count": 826,
+        "pages": 42
+      },
+      "results": [
+        {
+          "id": "41",
+          "name": "Alien Googah",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "id": "42",
+          "name": "Alien Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        },
+        {
+          "id": "43",
+          "name": "Alien Rick",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+        }
+      ]
+    }
+  }
+}
